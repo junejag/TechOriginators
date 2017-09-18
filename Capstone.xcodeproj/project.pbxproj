@@ -8,13 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		D59AF1061F69ECF000242B9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF1051F69ECF000242B9A /* AppDelegate.swift */; };
-		D59AF1081F69ECF000242B9A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF1071F69ECF000242B9A /* FirstViewController.swift */; };
-		D59AF10A1F69ECF000242B9A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF1091F69ECF000242B9A /* SecondViewController.swift */; };
 		D59AF10D1F69ECF100242B9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59AF10B1F69ECF100242B9A /* Main.storyboard */; };
 		D59AF10F1F69ECF100242B9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D59AF10E1F69ECF100242B9A /* Assets.xcassets */; };
 		D59AF1121F69ECF100242B9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59AF1101F69ECF100242B9A /* LaunchScreen.storyboard */; };
 		D59AF11D1F69ECF100242B9A /* CapstoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF11C1F69ECF100242B9A /* CapstoneTests.swift */; };
 		D59AF1281F69ECF100242B9A /* CapstoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF1271F69ECF100242B9A /* CapstoneUITests.swift */; };
+		D5F884971F6EDECC006648AF /* icons8-Contacts-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */; };
+		D5F884981F6EDECC006648AF /* icons8-Contacts Filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */; };
+		D5F8849B1F6EE081006648AF /* icons8-Missed Call Filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */; };
+		D5F8849C1F6EE081006648AF /* icons8-Missed Call-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F8849A1F6EE081006648AF /* icons8-Missed Call-50.png */; };
+		D5F8849F1F6EE128006648AF /* icons8-Wish List Filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F8849D1F6EE128006648AF /* icons8-Wish List Filled-50.png */; };
+		D5F884A01F6EE128006648AF /* icons8-Wish List-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F8849E1F6EE128006648AF /* icons8-Wish List-50.png */; };
+		D5F884A41F6F2636006648AF /* ContactTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5F884A31F6F2636006648AF /* ContactTableViewCell.swift */; };
+		D5F884A61F6F2A4A006648AF /* ContactTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5F884A51F6F2A4A006648AF /* ContactTableViewController.swift */; };
+		D5F884A81F6F2E8E006648AF /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5F884A71F6F2E8E006648AF /* Contacts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,8 +44,6 @@
 /* Begin PBXFileReference section */
 		D59AF1021F69ECF000242B9A /* Capstone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Capstone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59AF1051F69ECF000242B9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D59AF1071F69ECF000242B9A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		D59AF1091F69ECF000242B9A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		D59AF10C1F69ECF100242B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D59AF10E1F69ECF100242B9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D59AF1111F69ECF100242B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +54,15 @@
 		D59AF1231F69ECF100242B9A /* CapstoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CapstoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59AF1271F69ECF100242B9A /* CapstoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapstoneUITests.swift; sourceTree = "<group>"; };
 		D59AF1291F69ECF100242B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Contacts-50.png"; sourceTree = "<group>"; };
+		D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Contacts Filled-50.png"; sourceTree = "<group>"; };
+		D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Missed Call Filled-50.png"; sourceTree = "<group>"; };
+		D5F8849A1F6EE081006648AF /* icons8-Missed Call-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Missed Call-50.png"; sourceTree = "<group>"; };
+		D5F8849D1F6EE128006648AF /* icons8-Wish List Filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Wish List Filled-50.png"; sourceTree = "<group>"; };
+		D5F8849E1F6EE128006648AF /* icons8-Wish List-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Wish List-50.png"; sourceTree = "<group>"; };
+		D5F884A31F6F2636006648AF /* ContactTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactTableViewCell.swift; sourceTree = "<group>"; };
+		D5F884A51F6F2A4A006648AF /* ContactTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactTableViewController.swift; sourceTree = "<group>"; };
+		D5F884A71F6F2E8E006648AF /* Contacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +113,10 @@
 		D59AF1041F69ECF000242B9A /* Capstone */ = {
 			isa = PBXGroup;
 			children = (
-				D59AF1051F69ECF000242B9A /* AppDelegate.swift */,
-				D59AF1071F69ECF000242B9A /* FirstViewController.swift */,
-				D59AF1091F69ECF000242B9A /* SecondViewController.swift */,
-				D59AF10B1F69ECF100242B9A /* Main.storyboard */,
-				D59AF10E1F69ECF100242B9A /* Assets.xcassets */,
-				D59AF1101F69ECF100242B9A /* LaunchScreen.storyboard */,
-				D59AF1131F69ECF100242B9A /* Info.plist */,
+				D5F884941F6EDEA1006648AF /* Images */,
+				D5F884931F6ED873006648AF /* View Controllers */,
+				D5F884911F6ED860006648AF /* Special Classes */,
+				D5F884901F6ED852006648AF /* Model */,
 			);
 			path = Capstone;
 			sourceTree = "<group>";
@@ -126,6 +137,48 @@
 				D59AF1291F69ECF100242B9A /* Info.plist */,
 			);
 			path = CapstoneUITests;
+			sourceTree = "<group>";
+		};
+		D5F884901F6ED852006648AF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D5F884A71F6F2E8E006648AF /* Contacts.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		D5F884911F6ED860006648AF /* Special Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D59AF1051F69ECF000242B9A /* AppDelegate.swift */,
+				D59AF10E1F69ECF100242B9A /* Assets.xcassets */,
+				D59AF1131F69ECF100242B9A /* Info.plist */,
+			);
+			name = "Special Classes";
+			sourceTree = "<group>";
+		};
+		D5F884931F6ED873006648AF /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D59AF10B1F69ECF100242B9A /* Main.storyboard */,
+				D59AF1101F69ECF100242B9A /* LaunchScreen.storyboard */,
+				D5F884A31F6F2636006648AF /* ContactTableViewCell.swift */,
+				D5F884A51F6F2A4A006648AF /* ContactTableViewController.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		D5F884941F6EDEA1006648AF /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */,
+				D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */,
+				D5F8849D1F6EE128006648AF /* icons8-Wish List Filled-50.png */,
+				D5F8849E1F6EE128006648AF /* icons8-Wish List-50.png */,
+				D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */,
+				D5F8849A1F6EE081006648AF /* icons8-Missed Call-50.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +288,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5F8849B1F6EE081006648AF /* icons8-Missed Call Filled-50.png in Resources */,
+				D5F884A01F6EE128006648AF /* icons8-Wish List-50.png in Resources */,
 				D59AF1121F69ECF100242B9A /* LaunchScreen.storyboard in Resources */,
 				D59AF10F1F69ECF100242B9A /* Assets.xcassets in Resources */,
+				D5F8849F1F6EE128006648AF /* icons8-Wish List Filled-50.png in Resources */,
 				D59AF10D1F69ECF100242B9A /* Main.storyboard in Resources */,
+				D5F8849C1F6EE081006648AF /* icons8-Missed Call-50.png in Resources */,
+				D5F884971F6EDECC006648AF /* icons8-Contacts-50.png in Resources */,
+				D5F884981F6EDECC006648AF /* icons8-Contacts Filled-50.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +321,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D59AF10A1F69ECF000242B9A /* SecondViewController.swift in Sources */,
+				D5F884A81F6F2E8E006648AF /* Contacts.swift in Sources */,
+				D5F884A41F6F2636006648AF /* ContactTableViewCell.swift in Sources */,
 				D59AF1061F69ECF000242B9A /* AppDelegate.swift in Sources */,
-				D59AF1081F69ECF000242B9A /* FirstViewController.swift in Sources */,
+				D5F884A61F6F2A4A006648AF /* ContactTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -511,6 +571,7 @@
 				D59AF12E1F69ECF100242B9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D59AF12F1F69ECF100242B9A /* Build configuration list for PBXNativeTarget "CapstoneTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +580,7 @@
 				D59AF1311F69ECF100242B9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D59AF1321F69ECF100242B9A /* Build configuration list for PBXNativeTarget "CapstoneUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +589,7 @@
 				D59AF1341F69ECF100242B9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
