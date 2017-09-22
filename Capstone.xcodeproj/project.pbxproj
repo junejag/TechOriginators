@@ -13,6 +13,8 @@
 		D59AF1121F69ECF100242B9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59AF1101F69ECF100242B9A /* LaunchScreen.storyboard */; };
 		D59AF11D1F69ECF100242B9A /* CapstoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF11C1F69ECF100242B9A /* CapstoneTests.swift */; };
 		D59AF1281F69ECF100242B9A /* CapstoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59AF1271F69ECF100242B9A /* CapstoneUITests.swift */; };
+		D5CB65441F70812500E8A03F /* icons8-Ten Keys-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5CB65431F70812500E8A03F /* icons8-Ten Keys-50.png */; };
+		D5CB65461F7083BD00E8A03F /* icons8-Message-26.png in Resources */ = {isa = PBXBuildFile; fileRef = D5CB65451F7083BD00E8A03F /* icons8-Message-26.png */; };
 		D5F884971F6EDECC006648AF /* icons8-Contacts-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */; };
 		D5F884981F6EDECC006648AF /* icons8-Contacts Filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */; };
 		D5F8849B1F6EE081006648AF /* icons8-Missed Call Filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */; };
@@ -54,6 +56,8 @@
 		D59AF1231F69ECF100242B9A /* CapstoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CapstoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59AF1271F69ECF100242B9A /* CapstoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapstoneUITests.swift; sourceTree = "<group>"; };
 		D59AF1291F69ECF100242B9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5CB65431F70812500E8A03F /* icons8-Ten Keys-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Ten Keys-50.png"; sourceTree = "<group>"; };
+		D5CB65451F7083BD00E8A03F /* icons8-Message-26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Message-26.png"; sourceTree = "<group>"; };
 		D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Contacts-50.png"; sourceTree = "<group>"; };
 		D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Contacts Filled-50.png"; sourceTree = "<group>"; };
 		D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Missed Call Filled-50.png"; sourceTree = "<group>"; };
@@ -174,6 +178,8 @@
 				D5F884951F6EDECC006648AF /* icons8-Contacts-50.png */,
 				D5F884961F6EDECC006648AF /* icons8-Contacts Filled-50.png */,
 				D5F8849D1F6EE128006648AF /* icons8-Wish List Filled-50.png */,
+				D5CB65431F70812500E8A03F /* icons8-Ten Keys-50.png */,
+				D5CB65451F7083BD00E8A03F /* icons8-Message-26.png */,
 				D5F8849E1F6EE128006648AF /* icons8-Wish List-50.png */,
 				D5F884991F6EE081006648AF /* icons8-Missed Call Filled-50.png */,
 				D5F8849A1F6EE081006648AF /* icons8-Missed Call-50.png */,
@@ -293,6 +299,8 @@
 				D59AF1121F69ECF100242B9A /* LaunchScreen.storyboard in Resources */,
 				D59AF10F1F69ECF100242B9A /* Assets.xcassets in Resources */,
 				D5F8849F1F6EE128006648AF /* icons8-Wish List Filled-50.png in Resources */,
+				D5CB65461F7083BD00E8A03F /* icons8-Message-26.png in Resources */,
+				D5CB65441F70812500E8A03F /* icons8-Ten Keys-50.png in Resources */,
 				D59AF10D1F69ECF100242B9A /* Main.storyboard in Resources */,
 				D5F8849C1F6EE081006648AF /* icons8-Missed Call-50.png in Resources */,
 				D5F884971F6EDECC006648AF /* icons8-Contacts-50.png in Resources */,
